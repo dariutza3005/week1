@@ -7,4 +7,6 @@ for count in range(0, 100, 1):
 
 
 # test automat year1
+
+# test rulare ascunsa 
     
